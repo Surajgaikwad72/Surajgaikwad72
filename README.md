@@ -1,3 +1,5 @@
+![Banner](https://github.com/Surajgaikwad72/Surajgaikwad72/blob/main/1733670918098.jpg?raw=true)
+
 ## Hi, I'm Suraj Gaikwad 👋
 
 Welcome to my GitHub profile! I'm a Data Science Enthusiast with a passion for turning data into actionable insights. I enjoy working on projects involving Python, Machine Learning, Deep Learning, and AI. Here, you'll find some of my projects and contributions that reflect my journey in the field of data science.
